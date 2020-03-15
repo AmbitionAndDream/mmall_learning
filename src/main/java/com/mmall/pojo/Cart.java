@@ -5,6 +5,9 @@ import java.util.Date;
 public class Cart {
     private Integer AppId;
 
+    private Integer CartId;
+
+
     private Integer id;
 
     private Integer Nameid;
