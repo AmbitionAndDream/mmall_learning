@@ -5,6 +5,8 @@ import java.util.Date;
 public class Category {
     private Integer id;
 
+    private Integer Nameid;
+
     private Integer parentId;
 
     private String name;

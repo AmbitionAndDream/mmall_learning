@@ -3,6 +3,8 @@ package com.mmall.pojo;
 import java.util.Date;
 
 public class Cart {
+    private Integer CartId;
+
     private Integer id;
 
     private Integer userId;

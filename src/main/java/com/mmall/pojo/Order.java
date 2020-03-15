@@ -6,6 +6,8 @@ import java.util.Date;
 public class Order {
     private Integer id;
 
+    private Integer Nameid;
+
     private Long orderNo;
 
     private Integer userId;
