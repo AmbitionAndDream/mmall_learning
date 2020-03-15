@@ -3,7 +3,11 @@ package com.mmall.pojo;
 import java.util.Date;
 
 public class Cart {
+    private Integer AppId;
+
     private Integer id;
+
+    private Integer Nameid;
 
     private Integer userId;
 
